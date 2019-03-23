@@ -24,3 +24,11 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+input[type="text"],[type="radio"] {
+margin-left: 50px;
+}
+
+select{
+margin-left: 50px;
+}
